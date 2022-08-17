@@ -45,11 +45,11 @@ Baing mainly academic, this project showcases the ability to manipulate non-stru
 
 ## Contributing Os Pythaon Members
 
-|                         Name                        |                        LinkedIn                      |            email         |
+|Name                                                 |LinkedIn                                              | email                    |
 |-----------------------------------------------------|:----------------------------------------------------:|-------------------------:|
-|  [Erivan Oliveira](https://github.com/Erivan2400)   |https://www.linkedin.com/in/erivan-oliveira-365027185/|                          |
-|  [Saul dos Anjos](https://github.com/saulzera)      |https://www.linkedin.com/in/saul-dos-anjos-873b90209/ | sauldosanjos02@gmail.com | 
-|  [Vinicius Mendes](http://github.com/vmendes93)     |https://www.linkedin.com/in/viniciustm/               | vmendes@vmendes.xyz      |
+|[Erivan Oliveira](https://github.com/Erivan2400)     |https://www.linkedin.com/in/erivan-oliveira-365027185/|erivan2400@gmail.com      |
+|[Saul dos Anjos](https://github.com/saulzera)        |https://www.linkedin.com/in/saul-dos-anjos-873b90209/ |sauldosanjos02@gmail.com  | 
+|[Vinicius Mendes](http://github.com/vmendes93)       |https://www.linkedin.com/in/viniciustm/               |vmendes@vmendes.xyz       |
 
 ## Contact
 
